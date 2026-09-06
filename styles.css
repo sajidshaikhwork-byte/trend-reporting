@@ -173,7 +173,7 @@ footer{
 /* ANIMATION */
 
 .fade{
-    opacity:0;
+    opacity:1;
     transform:translateY(50px);
     transition:all 1s ease;
 }
